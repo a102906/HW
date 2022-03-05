@@ -4,7 +4,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram import Bot, Dispatcher, executor, types
 
 #Telegram bot token
-API_TOKEN = '5103299065:AAFNnG24_fjZNHnQI5-D7A7fKM4HSfpmX-I'
+API_TOKEN = '5199501380:AAEUED2ksyLBA34IsMEdS4P2PF1uo506g_s'
 
 
 #Main menu buttons
